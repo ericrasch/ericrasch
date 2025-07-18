@@ -1,24 +1,63 @@
 # Hi, I'm Eric Rasch ✨
 
-**Engineering Leader • Former VP of Engineering • CTO Candidate**  
-Building scalable platforms. Optimizing SEO & infra. Leading transformation.
+**Performance Marketing Technologist • Former VP of Engineering • CTO Track**  
+Building scalable platforms while bridging engineering, marketing & compliance. $135K+ saved.
 
 ---
 
 ## 🎓 About Me
 
-I'm a seasoned engineering leader with a track record of growing high-performing teams, modernizing infrastructure, and driving platform-wide innovation. I thrive in environments that demand both strategic leadership and technical depth.
+I'm a seasoned engineering leader recognized as "the best performance marketing technologist in the space" by executive leadership. With a unique blend of technical depth and marketing technology expertise, I drive measurable business impact through strategic infrastructure decisions.
 
-- ✨ Former **VP of Software Engineering** at Sleep Doctor
-- ⚙️ Currently **Principal Engineer**, driving cloud migration, automation & analytics
-- 🧑‍🏭 Built a dev org from the ground up post-offshoring
-- 🌍 Passionate about scalable architecture, site speed, privacy compliance, and growth
+- 🚀 **Principal Engineer** at Sleep Doctor (Former VP of Software Engineering)
+- 💰 Delivered **$135K+ annual savings** through platform optimization
+- 📈 Achieved **300% organic traffic growth** through technical SEO excellence
+- 🏆 **Top 2 most appreciated employee** company-wide for 3+ years
+- 🌉 Expert at bridging engineering, marketing, and compliance domains
 
 ---
 
-## 📈 Notable Achievements
+## 📊 Quantified Impact
 
-🔧 **Highlighted tools & automations**
+### Infrastructure & Cost Optimization
+- 💵 **$90K/year saved** migrating 15+ WordPress sites with zero downtime
+- 💵 **$45K/year additional savings** through platform consolidation
+- ⚡ **75% faster deployments** via GitHub Actions automation
+- 📈 **40-70% performance improvements** across portfolio
+
+### Team & Organizational Leadership  
+- 👥 **300% team growth** with 90% retention rate
+- 🚀 **50% faster time-to-market** transitioning offshore to in-house
+- 💼 **$40MM+ EBITDA contribution** through best practices
+- 🏗️ Built engineering org from 5 to 25+ developers
+
+### Marketing Technology Excellence
+- 🎯 Company-wide GA4 and OneTrust implementation
+- 🔒 GDPR/CCPA compliance while preserving attribution
+- 📊 Server-side tracking and Consent Mode v2
+- 🛠️ Expert in GTM, Elevar, Rockerbox integration
+
+---
+
+## 🛠 Technical Expertise
+
+**Platforms**: WordPress, Shopify, JAMstack, Magento (learning)  
+**Languages**: PHP, Python, JavaScript/React, Vue, Shell scripting  
+**Marketing Tech**: GA4, GTM, OneTrust, Elevar, Server-side tracking  
+**Infrastructure**: AWS, GitHub Actions, CI/CD, Docker, Cloudflare  
+**Specialties**: Technical SEO, Privacy Compliance, Performance Optimization
+
+---
+
+## 🎯 What I'm Building
+
+Currently focused on:
+- 🏗️ Scalable marketing technology infrastructure
+- 📊 Privacy-compliant analytics architectures  
+- 🚀 High-performance content platforms
+- 🤖 Automation tools for development efficiency
+
+### Noteworthy Repos
 - [script-export-wp-posts](https://github.com/ericrasch/script-export-wp-posts): Export WordPress content, permalinks, and authors at scale using WP-CLI
 - [wp-cli-sheet-automation](https://github.com/ericrasch/wp-cli-sheet-automation): Automate site cleanup with spreadsheet-driven post deletes, permalink rewrites, and search-replace
 - [netlify-redirect-exporter](https://github.com/ericrasch/script-redirect-exporter): Sync and format large redirect lists into clean Netlify-friendly output
@@ -26,59 +65,17 @@ I'm a seasoned engineering leader with a track record of growing high-performing
 - [script-reset-wp-symlinks](https://github.com/ericrasch/script-reset-wp-symlinks): Reset broken WordPress theme symlinks in LocalWP environments
 - [script-check-netlify-dns](https://github.com/ericrasch/script-check-netlify-dns): Validate DNS is correctly pointed to Netlify's IPs for active domain deployments
 
-- Migrated 12+ WordPress sites from WPEngine to Pressable, cutting hosting costs by over $90K/year
-- Automated deployment pipelines via GitHub Actions and CI/CD best practices
-- Architected tracking infrastructure across GA4, GTM, OneTrust, and affiliate platforms
-- Led replatforming from WordPress to JAMstack at Red Ventures
-- Helped scale SEO revenue impact across 60+ sites
+---
+
+## 💼 Open to Opportunities
+
+**Seeking**: CTO or Head of Engineering roles where I can leverage my unique combination of engineering leadership and performance marketing expertise.
+
+**Also Available**: Fractional CTO consulting for companies needing strategic technical leadership, marketing technology optimization, or compliance implementation.
+
+📬 Let's connect: [hello@ericrasch.com](mailto:hello@ericrasch.com)
 
 ---
 
-## 🛠 Toolset
-
-**Core Platforms:**  
-WordPress (WP), Shopify, JAMstack (Gatsby, Netlify), Magento (learning)
-
-**Tech Stack:**  
-Shell, Python, PHP, JS/React, Vue, Liquid, GitHub Actions
-
-**Analytics & Tracking:**  
-GA4, GTM, Google Consent Mode, OneTrust, Microsoft Clarity, Meta Pixel
-
-**Ops & Infra:**  
-CI/CD, SEO automation, Pressable, WPEngine, Cloudflare, DNS, caching, uptime
-
----
-
-## 🚀 Fractional CTO Services
-
-I'm currently available for **fractional CTO consulting**. I help founders, agencies, and growing teams with:
-
-- Platform strategy and technical direction
-- Dev team evaluation and hiring
-- Infrastructure, DevOps, and SEO optimization
-- Scalable architecture planning
-- Analytics, tracking, and privacy compliance
-
-📬 Interested in working together? Email me at [eric@ericrasch.com](mailto:eric@ericrasch.com)
-
----
-
-## 🚀 Currently
-
-- Seeking CTO-track roles or VP-level engineering/product leadership positions
-- Open to remote, hybrid, or Houston-area opportunities
-- Actively mentoring, shipping tools, and contributing on GitHub
-
----
-
-## 📍 Connect with Me
-
-- 🏠 [ericrasch.com](https://ericrasch.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/ericrasch/)
-- 🔧 [GitHub](https://github.com/ericrasch)
-- ✉️ [Email](mailto:eric@ericrasch.com)
-
----
-
-> *"Innovation happens when strategy meets execution. That’s where I live."*
+> *"Eric is by far the best performance marketing technologist I've witnessed in the space."*  
+> — CTO, Sleep Doctor
