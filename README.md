@@ -1,4 +1,4 @@
-# Hi, I'm Eric Rasch ✨
+# Hi, I'm Eric Rasch ✨ [LinkedIn](https://www.linkedin.com/in/ericrasch) | [EricRasch.com](https://ericrasch.com/)
 
 **Performance Marketing Technologist • Former VP of Engineering • CTO Track**  
 Building scalable platforms while bridging engineering, marketing & compliance. $135K+ saved.
@@ -9,11 +9,14 @@ Building scalable platforms while bridging engineering, marketing & compliance. 
 
 I'm a seasoned engineering leader recognized as "the best performance marketing technologist in the space" by executive leadership. With a unique blend of technical depth and marketing technology expertise, I drive measurable business impact through strategic infrastructure decisions.
 
-- 🚀 **Principal Engineer** at Sleep Doctor (Former VP of Software Engineering)
+- 🚀 **Principal Engineer** at SleepDoctor.com (Former VP of Software Engineering)
 - 💰 Delivered **$135K+ annual savings** through platform optimization
 - 📈 Achieved **300% organic traffic growth** through technical SEO excellence
 - 🏆 **Top 2 most appreciated employee** company-wide for 3+ years
 - 🌉 Expert at bridging engineering, marketing, and compliance domains
+- 🔒 **OneTrust implementation** for GDPR/CCPA compliance across portfolio
+- 🚀 **Zero-downtime migrations** across 15+ WordPress properties
+- 🎯 **Technical SEO authority** trusted for complex platform decisions
 
 ---
 
@@ -41,6 +44,9 @@ I'm a seasoned engineering leader recognized as "the best performance marketing 
 
 ## 🛠 Technical Expertise
 
+> *"Eric is by far the best performance marketing technologist I've witnessed in the space."*  
+> — CTO, Sleep Doctor
+
 **Platforms**: WordPress, Shopify, JAMstack, Magento (learning)  
 **Languages**: PHP, Python, JavaScript/React, Vue, Shell scripting  
 **Marketing Tech**: GA4, GTM, OneTrust, Elevar, Server-side tracking  
@@ -56,26 +62,16 @@ Currently focused on:
 - 📊 Privacy-compliant analytics architectures  
 - 🚀 High-performance content platforms
 - 🤖 Automation tools for development efficiency
-
-### Noteworthy Repos
-- [script-export-wp-posts](https://github.com/ericrasch/script-export-wp-posts): Export WordPress content, permalinks, and authors at scale using WP-CLI
-- [wp-cli-sheet-automation](https://github.com/ericrasch/wp-cli-sheet-automation): Automate site cleanup with spreadsheet-driven post deletes, permalink rewrites, and search-replace
-- [netlify-redirect-exporter](https://github.com/ericrasch/script-redirect-exporter): Sync and format large redirect lists into clean Netlify-friendly output
-- [script-validate-urls](https://github.com/ericrasch/script-validate-urls): Bash utility to check HTTP response codes in bulk for QA or SEO reviews
-- [script-reset-wp-symlinks](https://github.com/ericrasch/script-reset-wp-symlinks): Reset broken WordPress theme symlinks in LocalWP environments
-- [script-check-netlify-dns](https://github.com/ericrasch/script-check-netlify-dns): Validate DNS is correctly pointed to Netlify's IPs for active domain deployments
+- 👔 **CTO transition** - Seeking strategic technical leadership roles
 
 ---
 
 ## 💼 Open to Opportunities
 
-**Seeking**: CTO or Head of Engineering roles where I can leverage my unique combination of engineering leadership and performance marketing expertise.
+**Seeking**: CTO or Head of Engineering roles in healthtech, media, or performance marketing companies (6-12 month timeline).
 
-**Also Available**: Fractional CTO consulting for companies needing strategic technical leadership, marketing technology optimization, or compliance implementation.
+**Open to**: Strategic conversations about technical leadership opportunities where engineering meets marketing technology.
 
 📬 Let's connect: [hello@ericrasch.com](mailto:hello@ericrasch.com)
 
 ---
-
-> *"Eric is by far the best performance marketing technologist I've witnessed in the space."*  
-> — CTO, Sleep Doctor
