@@ -53,12 +53,12 @@ While many leaders talk about AI, I use it daily to ship production code. My Git
 > *"Eric is by far the best performance marketing technologist I've witnessed in the space."*  
 > — CTO, Sleep Doctor
 
-**Platforms**: WordPress, Shopify, JAMstack  
-**Languages**: PHP, Python, JavaScript/React, Vue, Shell scripting  
-**Marketing Tech**: GA4, GTM, OneTrust, Elevar, Server-side tracking  
-**Infrastructure**: AWS, GitHub Actions, CI/CD, Docker, Cloudflare  
-**Specialties**: Technical SEO, Privacy Compliance, Performance Optimization
-**AI/ML Tools & Practices**: ChatGPT, Claude, Claude Code, GitHub Copilot, AI-Assisted Development, Prompt Engineering, Automated Code Generation, AI Pair Programming, LLM Integration
+- **Platforms**: WordPress, Shopify, JAMstack  
+- **Languages**: PHP, Python, JavaScript/React, Vue, Shell scripting  
+- **Marketing Tech**: GA4, GTM, OneTrust, Elevar, Server-side tracking  
+- **Infrastructure**: AWS, GitHub Actions, CI/CD, Docker, Cloudflare  
+- **Specialties**: Technical SEO, Privacy Compliance, Performance Optimization
+- **AI/ML Tools & Practices**: ChatGPT, Claude, Claude Code, GitHub Copilot, AI-Assisted Development, Prompt Engineering, Automated Code Generation, AI Pair Programming, LLM Integration
 
 ---
 
