@@ -9,7 +9,7 @@ Building scalable platforms while bridging engineering, marketing & compliance. 
 
 I'm a seasoned engineering leader recognized as "the best performance marketing technologist in the space" by executive leadership. With a unique blend of technical depth and marketing technology expertise, I drive measurable business impact through strategic infrastructure decisions and pioneering use of generative AI tools for rapid prototyping, automation, and code quality.
 
-While many leaders talk about AI, I use it daily to ship production code. My GitHub commits from 2025 show consistent AI-assisted development across Python automation, infrastructure tooling, and complex problem-solving. I understand AI's capabilities and limitations from hands-on experience, not theory.
+While many leaders talk about AI, I use it daily to ship production code. Since 2023, I've leveraged ChatGPT, Claude, and Claude Code to achieve 3x development velocity, building production automation in days instead of weeks. My GitHub commits from 2025 show consistent AI-assisted development across Python automation, infrastructure tooling, and complex problem-solving. I understand AI's capabilities and limitations from hands-on experience, not theory.
 
 - 🚀 **Principal Engineer** at SleepDoctor.com (Former VP of Software Engineering)
 - 💰 Delivered **$135K+ annual savings** through platform optimization
@@ -31,7 +31,7 @@ While many leaders talk about AI, I use it daily to ship production code. My Git
 - 📈 **40-70% performance improvements** across portfolio
 
 ### Team & Organizational Leadership  
-- 👥 **300% team growth** with 90% retention rate
+- 👥 **5→25+ team growth** with 90% retention rate
 - 🚀 **50% faster time-to-market** transitioning offshore to in-house
 - 💼 **$40MM+ EBITDA contribution** through best practices
 - 🏗️ Built engineering org from 5 to 25+ developers
@@ -70,6 +70,7 @@ While many leaders talk about AI, I use it daily to ship production code. My Git
 - 📊 Privacy-compliant analytics architectures  
 - 🚀 High-performance content platforms
 - 🤖 Automation tools for development efficiency (AI-augmented workflows, generative AI for code and infrastructure)
+- 🔒 **Privacy Compliance Tools** - Building enterprise-grade OneTrust integration and consent management solutions
 - 👔 **CTO transition** - Seeking strategic technical leadership roles
 
 ### 📌 Pinned Repositories
@@ -81,6 +82,15 @@ While many leaders talk about AI, I use it daily to ship production code. My Git
 5. [script-reset-wp-symlinks](https://github.com/ericrasch/script-reset-wp-symlinks): Reset broken WordPress theme symlinks in LocalWP environments
 6. [script-check-netlify-dns](https://github.com/ericrasch/script-check-netlify-dns): Validate DNS is correctly pointed to Netlify's IPs for active domain deployments
 
+### 🔐 Recent Private Projects
+
+**Privacy Compliance Audit Suite** (2025)
+- Built comprehensive Python CLI tool for OneTrust consent category auditing
+- Analyzes scripts across GTM, WordPress, and live websites using web crawling
+- Generates compliance reports for GDPR/CCPA requirements
+- Features batch processing, interactive UI, and beautiful HTML reporting
+- *Currently in use at enterprise scale - public release pending*
+
 ---
 
 ## 💼 Open to Opportunities
@@ -90,5 +100,3 @@ While many leaders talk about AI, I use it daily to ship production code. My Git
 **Open to**: Strategic conversations about technical leadership opportunities where engineering meets marketing technology.
 
 📬 Let's connect: [hello@ericrasch.com](mailto:hello@ericrasch.com)
-
----
