@@ -64,12 +64,22 @@ While many leaders talk about AI, I use it daily to ship production code. My Git
 
 ## 🎯 What I'm Building
 
-Currently focused on:
+### Currently focused on:
+
 - 🏗️ Scalable marketing technology infrastructure
 - 📊 Privacy-compliant analytics architectures  
 - 🚀 High-performance content platforms
 - 🤖 Automation tools for development efficiency (AI-augmented workflows, generative AI for code and infrastructure)
 - 👔 **CTO transition** - Seeking strategic technical leadership roles
+
+### 📌 Pinned Repositories
+
+1. [script-export-wp-posts](https://github.com/ericrasch/script-export-wp-posts): Export WordPress content, permalinks, and authors at scale using WP-CLI
+2. [wp-cli-sheet-automation](https://github.com/ericrasch/wp-cli-sheet-automation): Automate site cleanup with spreadsheet-driven post deletes, permalink rewrites, and search-replace
+3. [netlify-redirect-exporter](https://github.com/ericrasch/script-redirect-exporter): Sync and format large redirect lists into clean Netlify-friendly output
+4. [script-validate-urls](https://github.com/ericrasch/script-validate-urls): Bash utility to check HTTP response codes in bulk for QA or SEO reviews
+5. [script-reset-wp-symlinks](https://github.com/ericrasch/script-reset-wp-symlinks): Reset broken WordPress theme symlinks in LocalWP environments
+6. [script-check-netlify-dns](https://github.com/ericrasch/script-check-netlify-dns): Validate DNS is correctly pointed to Netlify's IPs for active domain deployments
 
 ---
 
