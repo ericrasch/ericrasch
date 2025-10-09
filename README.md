@@ -14,7 +14,7 @@ While many leaders talk about AI, I use it daily to ship production code. Since 
 - 🚀 **Principal Engineer** at SleepDoctor.com (Former VP of Software Engineering)
 - 💰 Delivered **$135K+ annual savings** through platform optimization
 - 📈 Achieved **165% organic traffic growth** through technical SEO excellence
-- 🏆 **Top 2 most appreciated employee** company-wide for 3+ years
+- 🏆 **Top 3 most appreciated employee** company-wide for 3+ years
 - 🌉 Expert at bridging engineering, marketing, and compliance domains
 - 🔒 **OneTrust implementation** for GDPR/CCPA compliance across portfolio
 - 🚀 **Zero-downtime migrations** across 15+ WordPress properties
