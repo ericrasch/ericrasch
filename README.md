@@ -7,18 +7,20 @@ Building scalable platforms while bridging engineering, marketing & compliance. 
 
 ## 🎓 About Me
 
-I'm a seasoned engineering leader recognized as "the best performance marketing technologist in the space" by executive leadership. With a unique blend of technical depth and marketing technology expertise, I drive measurable business impact through strategic infrastructure decisions and pioneering use of generative AI tools for rapid prototyping, automation, and code quality.
+I'm a VP of Engineering and seasoned technical leader recognized as "the best performance marketing technologist in the space" by executive leadership. With a unique blend of technical depth and marketing technology expertise, I drive measurable business impact through strategic infrastructure decisions and pioneering use of generative AI tools for rapid prototyping, automation, and code quality.
 
-While many leaders talk about AI, I use it daily to ship production code. Since 2023, I've leveraged ChatGPT, Claude, and Claude Code to achieve 3x development velocity, building production automation in days instead of weeks. My GitHub commits from 2025 show consistent AI-assisted development across Python automation, infrastructure tooling, and complex problem-solving. I understand AI's capabilities and limitations from hands-on experience, not theory.
+While many leaders talk about AI, I use it daily to ship production code. Since 2023, I've leveraged ChatGPT, Claude, and Claude Code to achieve 3x development velocity, building production automation in days instead of weeks. My GitHub commits show consistent AI-assisted development across Python automation, infrastructure tooling, and complex problem-solving. I understand AI's capabilities and limitations from hands-on experience, not theory.
 
-- 🚀 **Principal Engineer** at SleepDoctor.com (Former VP of Software Engineering)
+- 🚀 **Vice President of Software Engineering** at SleepDoctor.com ($60M+ healthtech platform)
 - 💰 Delivered **$135K+ annual savings** through platform optimization
+- 👥 **Scaled engineering teams 5x** (5→25 developers) with 90% retention
+- 🎯 **Mentored 8 engineers** to senior roles with 85% promotion rate in 24 months
+- 📊 **Delivered quarterly executive presentations** securing $500K+ in technology investments
 - 📈 Achieved **165% organic traffic growth** through technical SEO excellence
-- 🏆 **Top 3 most appreciated employee** company-wide for 3+ years
+- 🏆 **Top 3 most appreciated employee** company-wide for 4+ years
 - 🌉 Expert at bridging engineering, marketing, and compliance domains
 - 🔒 **OneTrust implementation** for GDPR/CCPA compliance across portfolio
 - 🚀 **Zero-downtime migrations** across 15+ WordPress properties
-- 🎯 **Technical SEO authority** trusted for complex platform decisions
 
 ---
 
@@ -31,10 +33,13 @@ While many leaders talk about AI, I use it daily to ship production code. Since 
 - 📈 **40-70% performance improvements** across portfolio
 
 ### Team & Organizational Leadership  
-- 👥 **5→25+ team growth** with 90% retention rate
-- 🚀 **50% faster time-to-market** transitioning offshore to in-house
-- 💼 **$40MM+ EBITDA contribution** through best practices
-- 🏗️ Built engineering org from 5 to 25+ developers
+- 👥 **Scaled teams 5x** (5→25+ developers) with 90% retention rate
+- 🎓 **Mentored 8 junior engineers** to senior roles, achieving 85% promotion rate within 24 months
+- 👔 **Managed 15+ distributed developers** across frontend, backend, and DevOps
+- 🤝 **Navigated stakeholder priorities** across engineering, marketing, and product teams
+- 💼 **$40MM+ EBITDA contribution** through platform modernization at HigherEducation.com
+- 🏗️ **Built hiring pipeline** and established engineering culture that survived acquisition
+- 🚀 **50% faster time-to-market** transitioning offshore to in-house teams
 
 ### Marketing Technology Excellence
 - 🎯 Company-wide GA4/GTM and OneTrust implementation
@@ -44,8 +49,9 @@ While many leaders talk about AI, I use it daily to ship production code. Since 
 
 ### AI-Enhanced Development
 - 🚀 Leveraged generative AI (ChatGPT, Claude, Claude Code) to accelerate development velocity by 3x, building production automation in days instead of weeks
-- 🧠 Implemented AI-assisted code reviews, improving code quality and reducing review time by 60%
+- 🧠 Implemented AI-assisted code reviews, improving code quality and reducing review time by 85%
 - ⚡ Utilized generative AI for rapid prototyping and MVP development, cutting time-to-market for new features by 50%
+- 📊 Delivered quarterly technology roadmap presentations to C-suite with AI strategy and ROI analyses
 ---
 
 ## 🛠 Technical Expertise
