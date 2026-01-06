@@ -1,7 +1,7 @@
 # Hi, I'm Eric Rasch ✨ [LinkedIn](https://www.linkedin.com/in/ericrasch) | [EricRasch.com](https://ericrasch.com/)
 
-**Performance Marketing Technologist • Former VP of Engineering • CTO Track**  
-Building scalable platforms while bridging engineering, marketing & compliance. $135K+ saved.
+**VP Engineering → CTO Track • Performance Marketing Technologist**
+Building scalable platforms while bridging engineering, marketing & compliance: • AI-Augmented Developer • $135K+ infrastructure savings • Top 3 performer 4+ years running
 
 ---
 
